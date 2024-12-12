@@ -3,4 +3,8 @@ bin/Debug/
 obj/Debug/net8.0/
 obj/Debug/net7.0/
 obj/Debug/net8.0/
+obj/Release/
+
 obj/release/
+bin/release/
+bin/Release/
