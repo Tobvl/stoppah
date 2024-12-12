@@ -1,2 +1,6 @@
-bin/Debug
+bin/Debug/
 .vs/
+obj/Debug/net8.0/
+obj/Debug/net7.0/
+obj/Debug/net8.0/
+obj/release/
