@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\linux-x64\TbvlStoppah
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\linux-x64\TbvlStoppah.deps.json
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\linux-x64\TbvlStoppah.runtimeconfig.json
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\linux-x64\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\linux-x64\TbvlStoppah.pdb
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.AssemblyInfo.cs
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\refint\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.pdb
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\TbvlStoppah.genruntimeconfig.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\linux-x64\ref\TbvlStoppah.dll

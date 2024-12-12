@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.AssemblyInfo.cs
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\TbvlStoppah.exe
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\TbvlStoppah.deps.json
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\TbvlStoppah.runtimeconfig.json
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\bin\Debug\net9.0\TbvlStoppah.pdb
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\refint\TbvlStoppah.dll
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.pdb
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\TbvlStoppah.genruntimeconfig.cache
+C:\Users\USER\Desktop\Archivos\_TBVL\TbvlStoppah\obj\Debug\net9.0\ref\TbvlStoppah.dll
